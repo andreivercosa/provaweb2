@@ -1,0 +1,13 @@
+/Users/aluno/Projects/provaweb2/VIEW/bin/VIEW.dll
+/Users/aluno/Projects/provaweb2/VIEW/bin/VIEW.pdb
+/Users/aluno/Projects/provaweb2/VIEW/bin/BLL.dll
+/Users/aluno/Projects/provaweb2/VIEW/bin/DAL.dll
+/Users/aluno/Projects/provaweb2/VIEW/bin/MySql.Data.dll
+/Users/aluno/Projects/provaweb2/VIEW/bin/DAL.pdb
+/Users/aluno/Projects/provaweb2/VIEW/bin/DAL.dll.config
+/Users/aluno/Projects/provaweb2/VIEW/bin/BLL.pdb
+/Users/aluno/Projects/provaweb2/VIEW/obj/Debug/VIEW.csprojAssemblyReference.cache
+/Users/aluno/Projects/provaweb2/VIEW/obj/Debug/VIEW.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/provaweb2/VIEW/obj/Debug/VIEW.csproj.CopyComplete
+/Users/aluno/Projects/provaweb2/VIEW/obj/Debug/VIEW.dll
+/Users/aluno/Projects/provaweb2/VIEW/obj/Debug/VIEW.pdb
